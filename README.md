@@ -9,6 +9,7 @@ As funções presentes são:
 - Freio
 - Caixa de Câmbio, com 6 marchas
 - Freio de Mão
+- ~~Volante~~(por ser somente sinais digitais, controlar o volante do carro se mostrou uma tarefa muito difícil. Portanto, o volante será incluído quando eu for capaz de ler sinais analógicos)
 
 A versão v0.1 foi planejada especificamente para o jogo Dirt Rally.
 
