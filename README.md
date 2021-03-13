@@ -11,6 +11,7 @@ As funções presentes são:
 - Freio de Mão
 - ~~Volante~~(por ser somente sinais digitais, controlar o volante do carro se mostrou uma tarefa muito difícil. Portanto, o volante será incluído quando eu for capaz de ler sinais analógicos)
 
+Uma demonstração da caixa de câmbio funcionando pode ser vista [aqui](https://youtu.be/r5uxpETl2Dw)
 _Diminuir as imagens_
 ![](Imagens/pedais.jpeg)
 ![](Imagens/caixa_cambio.jpeg)
